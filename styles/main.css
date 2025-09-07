@@ -1,0 +1,86 @@
+
+#home
+{
+display: flex; 
+}
+body {
+    background-color: #222121;
+
+}
+button {
+   font-family:'Bungee', 'monospace' ; 
+   background-color: #ff1492;color:#222121;
+   font-size: 20px; border-radius: 100px; border-color: rgb(0, 158, 250); border-style: solid;
+   margin-left:auto; margin-right: auto; display: block; 
+}
+#home {
+    size: 100px;
+}
+.header {
+    text-align: center;
+}
+h1 {
+    color:#ff1492; font-family: 'Bungee'; 
+    font-size: 300%; text-align: center; 
+    text-decoration: underline rgb(0, 158, 250);
+}
+h2 {
+    color:rgb(0, 158, 250);
+    font-family: monospace;
+    font-size: 250%; 
+    text-align: center;
+    text-decoration: underline #ff1492;
+
+
+}
+h3 {
+    color:#ff1492;
+    font-family: monospace;
+    font-size: 170%;
+   text-align: center;
+   width: 60%;
+   margin-left: 300px;
+   border-color: rgb(0, 158, 250); border-style: dashed; border-radius: 0%; 
+}
+.image {
+  margin-left: auto; margin-right: auto; width: 50%; 
+}
+
+
+
+@font-face {
+    font-family: 'Bungee';
+    src: url('fonts/subset-Bungee-Regular.woff2') format('woff2'),
+        url('fonts/subset-Bungee-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+}
+
+p { color: bisque;
+    font-family: monospace; font-size: 20px; 
+    text-align: center; width: 60%; margin-left: auto; margin-right: auto;
+  
+   
+}
+div {
+    color: bisque; align-content: center; text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
