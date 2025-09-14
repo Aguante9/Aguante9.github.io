@@ -38,8 +38,9 @@ h3 {
     font-family: monospace;
     font-size: 170%;
    text-align: center;
-   width: 60%;
-   margin-left: 300px;
+   width: 58%;
+   margin-left:auto;
+   margin-right: auto;
    border-color: rgb(0, 158, 250); border-style: dashed; border-radius: 0%; 
 }
 .image {
